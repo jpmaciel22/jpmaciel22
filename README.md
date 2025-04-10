@@ -1,5 +1,5 @@
 ```javascript
-console.log('Olá eu sou o joão e estes são os meus conhecimentos na área.');
+console.log('Olá eu sou o João e estes são os meus conhecimentos na área.');
 console.log('Linguagens que eu mais tenho experiência:');
 const progLanguages = ['Javascript', 'Typescript'];
 console.log('Linguagens que eu estou aprendendo:');
