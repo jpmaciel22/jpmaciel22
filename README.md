@@ -2,6 +2,8 @@
 console.log('Olá eu sou o João e estes são os meus conhecimentos na área.');
 console.log('Linguagens que eu mais tenho experiência:');
 const progLanguages = ['Javascript', 'Typescript'];
+console.log('Tenho experiência com os seguintes frameworks de javascript:');
+const frontend = ['Angular 18', 'Angular 14']
 console.log('Linguagens que eu estou aprendendo:');
 const learningLangs = ['Python', 'C++']
 console.log('Frameworks em python com experiência:')
