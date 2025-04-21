@@ -13,5 +13,5 @@ const backend = ['ExpressJS']
 const DB = ['MongoDB']
 const DBLearning = ['Postgresql']
 console.log('Também tenho experiência com Linux e utilizei as seguintes distros:')
-const distros = ['Slackware', 'Ubuntu']
+const distros = ['Slackware', 'Ubuntu', 'Pop!_OS']
 ```
