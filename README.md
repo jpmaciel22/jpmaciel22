@@ -5,7 +5,7 @@ const progLanguages = ['Javascript', 'Typescript'];
 console.log('Tenho experiência com os seguintes frameworks de javascript:');
 const frontend = ['Angular 18', 'Angular 14']
 console.log('Linguagens que eu estou aprendendo:');
-const learningLangs = ['Python', 'C++']
+const learningLangs = ['Golang']
 console.log('Frameworks em python com experiência:')
 const pylibs = ['Pandas', 'Numpy', 'NetworkX', 'Matplotlib']
 console.log('Tenho experiência no backend com:')
