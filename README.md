@@ -6,4 +6,4 @@
 ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)
 
 ### Currently Reading:
-#### => Eloquent Javascript 3rd ed.
+#### => ![Eloquent Javascript 3rd ed.](https://eloquentjavascript.net/)
