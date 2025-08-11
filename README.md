@@ -14,4 +14,3 @@ https://jpmaciel22.vercel.app/index.html
 
 ### Currently Reading:
 #### => [Eloquent Javascript 3rd ed.](https://eloquentjavascript.net/)
-#### => [Learn You Some Erlang](https://learnyousomeerlang.com/)
