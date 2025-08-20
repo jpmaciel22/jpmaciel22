@@ -1,7 +1,7 @@
 ## João Pedro, 20yo, Angular FullStack Intern
 
 ### interests:
-data hoarding, functional programming, plt, back-end engineering, vanilla javascript enthusiast
+data hoarding, functional programming, prog. lang. theory, back-end engineering, vanilla javascript enthusiast
 
 ### My Portfolio:
 https://jpmaciel22.vercel.app/index.html
