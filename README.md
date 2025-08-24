@@ -3,7 +3,7 @@
 ### interests:
 data hoarding, functional programming, prog. lang. theory, back-end engineering, vanilla javascript enthusiast
 
-![](https://projecteuler.net/profile/postGrips.png)
+![](https://projecteuler.net/profile/jpmaciel22.png)
 
 ### My Portfolio:
 https://jpmaciel22.vercel.app/index.html
