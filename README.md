@@ -16,3 +16,5 @@ angular, typescript, nodejs, express, c++, python, go, flutter, postgresql, mong
 
 ### Currently Reading:
 #### => Compilers: Principles, Techniques and Tools
+#### => Phaedo
+#### => The Six Enneads
