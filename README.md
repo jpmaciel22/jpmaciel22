@@ -15,6 +15,5 @@ angular, typescript, nodejs, express, c++, python, go, flutter, postgresql, mong
 ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)
 
 ### Currently Reading:
-#### => Compilers: Principles, Techniques and Tools
-#### => Phaedo
-#### => The Six Enneads
+#### => Programming Languages: Application and Interpretation
+#### => Symposium
