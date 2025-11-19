@@ -16,4 +16,4 @@ angular, typescript, nodejs, express, c++, python, go, flutter, postgresql, mong
 
 ### Currently Reading:
 #### => Programming Languages: Application and Interpretation
-#### => Symposium
+#### => Beyond Good And Evil
