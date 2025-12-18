@@ -16,4 +16,4 @@ angular, typescript, nodejs, express, c++, python, go, flutter, postgresql, mong
 
 ### Currently Reading:
 #### => Programming Languages: Application and Interpretation
-#### => Beyond Good And Evil
+#### => Prolegomena zu einer jeden künftigen Metaphysik, die als Wissenschaft wird auftreten können
