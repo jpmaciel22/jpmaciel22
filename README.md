@@ -1,4 +1,4 @@
-## João Pedro, 20yo, Angular FullStack Intern
+## João Pedro, 21yo, Angular FullStack Intern
 
 ### interests:
 data hoarding, functional programming, prog. lang. theory, functional js enthusiast, theoretical computer science, philosophy
