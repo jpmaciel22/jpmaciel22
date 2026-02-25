@@ -3,8 +3,6 @@
 ### interests:
 data hoarding, functional programming, prog. lang. theory, functional js enthusiast, theoretical computer science, philosophy
 
-![](https://projecteuler.net/profile/jpmaciel22.png)
-
 ### My Portfolio:
 https://jpmaciel22.vercel.app/index.html
 
